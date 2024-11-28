@@ -1,5 +1,5 @@
 # South African Presidential Statements Dataset
-### I cannot upload the dataset to github, unfortunately, but it can be acccessed from <a href="/kaggle/input/sa-government-data/Presidential Statements"> my kaggle account </a>
+### I cannot upload the dataset to github, unfortunately, but it can be acccessed from <a href="https://www.kaggle.com/datasets/maleselalegodi/sa-government-data/data"> my kaggle account </a>
 ## Overview
 This dataset contains South African presidential statements translated into multiple South African languages. It is a valuable resource for tasks in **Natural Language Processing (NLP)** and **Machine Translation**, particularly for low-resource languages. This datasets containst statements until 9 October 2023. This is my contribution, hopefully this is helpful.
 
