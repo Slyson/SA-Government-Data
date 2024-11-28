@@ -23,10 +23,10 @@ This dataset contains South African presidential statements translated into mult
     - **multilingual-statement-scraping.ipnyb** This script scrapes multilingual presidential statements from a series of web pages and identifies and processes language-specific links on each page, extracts the corresponding text of the statements, and then organises the data into a structured dictionary.
 
 ### Applications
-    - There are many, but the structure is perfect for
-     - **Machine Transaltion:** Build and evaluate models for translating between all spoken South African languages.
-     - **Low-Resource NLP Research:** Enhance language understanding for underrepresented and under-resourced languages.
-     - **Sentiment Analysis:** Analyse public sentiments in different languages using presidential speeches.    
+- There are many, but the structure is perfect for
+     1. **Machine Transaltion:** Build and evaluate models for translating between all spoken South African languages.
+     2. **Low-Resource NLP Research:** Enhance language understanding for underrepresented and under-resourced languages.
+     3. **Sentiment Analysis:** Analyse public sentiments in different languages using presidential speeches.    
     
 ### Dataset Structure
 Each file is structured as a JSON object with keys representing unique statement IDs. The translations are aligned across languages to facilitate easy use in NLP tasks.
