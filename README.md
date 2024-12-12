@@ -5,7 +5,7 @@ This dataset contains South African presidential statements translated into mult
 
 ### Folders and files in the Dataset
 1. **Unorganised Datasets (folder):`presidential_statements.json`(file)**:
-    - Contains the original presidential statements, mostly in English and the multiple translations.
+    - Contains presidential statements drafted in South African languages.
    
 2. **Organised Datasets (folder):`nso_xh_ts.json`(file)**:
     - Contains translations of the presidential statements these three languages:
