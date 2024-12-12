@@ -1,7 +1,7 @@
 # South African Presidential Statements Dataset
 ### I cannot upload the dataset to github, unfortunately, but it can be acccessed from <a href="https://www.kaggle.com/datasets/maleselalegodi/sa-government-data/data"> my kaggle account </a>
 ## Overview
-This dataset contains South African presidential statements translated into multiple South African languages. It is a valuable resource for tasks in **Natural Language Processing (NLP)** and **Machine Translation**, particularly for low-resource languages. Multilingual datasets for South African languages are scarce, making it challenging to build robust NLP models. This dataset helps fill that gap by providing presidential statements in multiple South African languages. This datasets contains statements until 9 October 2023. This is my contribution, hopefully this is helpful.
+This dataset contains South African presidential statements translated into multiple South African languages. It is a valuable resource for tasks in **Natural Language Processing (NLP)** and **Machine Translation**, particularly for low-resource languages. Multilingual datasets for South African languages are scarce, making it challenging to build robust NLP models. This dataset helps fill that gap by providing presidential statements in multiple South African languages. This datasets contains statements from 9 February until 9 October 2023. This is my contribution, hopefully this is helpful.
 
 ### Folders and files in the Dataset
 1. **Unorganised Datasets (folder):`presidential_statements.json`(file)**:
@@ -31,7 +31,7 @@ There are many, but the structure is perfect for
 ### Dataset Structure
 Each file is structured as a JSON object with keys representing unique statement IDs. The translations are aligned across languages to facilitate easy use in NLP tasks.
 
-### Example JSON Structure:
+### Example JSON Structure
 ```JSON
 {
     Statement 1": {
